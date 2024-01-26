@@ -12,6 +12,11 @@
 
 🍿 Fun facts - Only in Commit
 
+## Présentation des modules
+# Hygiène Sécurité
+DigiRisk -ID: - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, etc
+
+
 
 
 
