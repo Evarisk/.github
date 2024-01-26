@@ -17,6 +17,8 @@
 DigiRisk - ID:436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
 ## Qualité
 DigiQuali - ID: - Gestion de contrôle qualité et référentiel
+## Qualiopi
+DoliMeet - ID: - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
 ## GMAO
 GMAO - ID: - Gestion de la maintenance assistée par ordinateur
 ## FrameWork pour Dolibarr
