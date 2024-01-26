@@ -1,4 +1,4 @@
-## Présentation Evarisk 👋
+# Présentation Evarisk 👋
 
 🙋‍♀️ Depuis 2003, la société Evarisk est spécialisée dans l’étude méthodologique de la prévention des risques professionnels. Evarisk propose aux TPE, PME, grandes entreprises et collectivités un ensemble de prestations et de solutions en matière de sécurité, d’hygiène et de santé pour les employés.
 
@@ -12,9 +12,16 @@
 
 🍿 Fun facts - Only in Commit
 
-## Présentation des modules
-# Hygiène Sécurité
-DigiRisk -ID:436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, etc
+# Présentation des modules
+## Hygiène Sécurité
+DigiRisk - ID:436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
+## Qualité
+DigiQuali - ID: - Gestion de contrôle qualité et référentiel
+## GMAO
+GMAO - ID: - Gestion de la maintenance assistée par ordinateur
+## FrameWork pour Dolibarr
+Saturne -ID: - Ajout de nombreuses fonctionnalités simplifiant le deploiement de modules pour Dolibarr
+
 
 
 
