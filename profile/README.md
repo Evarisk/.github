@@ -14,15 +14,17 @@
 
 # Présentation des modules
 ## Hygiène Sécurité
-DigiRisk - ID:436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
+DigiRisk - ID: 436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
 ## Qualité
-DigiQuali - ID: - Gestion de contrôle qualité et référentiel
+DigiQuali - ID: 436301 - Gestion de contrôle qualité et référentiel
 ## Qualiopi
-DoliMeet - ID: - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
+DoliMeet - ID: 436304 - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
+## Ressources Humaines
+DoliSIRH - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
 ## GMAO
 GMAO - ID: - Gestion de la maintenance assistée par ordinateur
 ## FrameWork pour Dolibarr
-Saturne -ID: - Ajout de nombreuses fonctionnalités simplifiant le deploiement de modules pour Dolibarr
+Saturne -ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le deploiement de modules pour Dolibarr
 
 
 
