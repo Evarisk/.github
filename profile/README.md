@@ -22,7 +22,7 @@ DoliMeet - ID: 436304 - Gestion des sessions de formations, signatures, feuille 
 ## Ressources Humaines
 DoliSIRH - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
 ## GMAO
-GMAO - ID: - Gestion de la maintenance assistée par ordinateur
+GMAO - ID: 436312 - Gestion de la maintenance assistée par ordinateur
 ## FrameWork pour Dolibarr
 Saturne -ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le deploiement de modules pour Dolibarr
 
