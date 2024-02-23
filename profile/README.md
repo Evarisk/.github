@@ -14,17 +14,18 @@
 
 # Présentation des modules
 ## Hygiène Sécurité
-DigiRisk - ID: 436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
+- [DigiRisk](https://github.com/Evarisk/Digirisk) - ID: 436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
+- [DoliSecu](https://github.com/Evarisk/dolisecu) - ID: 436311 - Réparation des erreurs de sécurité sur les instance Dolibarr
 ## Qualité
-DigiQuali - ID: 436301 - Gestion de contrôle qualité et référentiel
+- [DigiQuali](https://github.com/Evarisk/DigiQuali) - ID: 436301 - Gestion de contrôle qualité et référentiel
 ## Qualiopi
-DoliMeet - ID: 436304 - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
+- [DoliMeet](https://github.com/Evarisk/dolimeet) - ID: 436304 - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
 ## Ressources Humaines
-DoliSIRH - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
+- [DoliSIRH](https://github.com/Evarisk/DoliSIRH) - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
 ## GMAO
-GMAO - ID: 436312 - Gestion de la maintenance assistée par ordinateur
+- [GMAO](https://github.com/Evarisk/gmao) - ID: 436312 - Gestion de la maintenance assistée par ordinateur
 ## FrameWork pour Dolibarr
-Saturne -ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le deploiement de modules pour Dolibarr
+- [Saturne](https://github.com/Evarisk/Saturne) - ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le deploiement de modules pour Dolibarr
 
 
 
