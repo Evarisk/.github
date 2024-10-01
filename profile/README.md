@@ -16,6 +16,7 @@
 ## Hygiène Sécurité
 - [DigiRisk](https://github.com/Evarisk/Digirisk) - ID: 436302 - Gestion de Document Unique, PAPRIPACT, Plan de prévention, permis de feu, registre SST, Etc
 - [DoliSecu](https://github.com/Evarisk/dolisecu) - ID: 436311 - Réparation des erreurs de sécurité sur les instance Dolibarr
+- [DigiBoard](https://github.com/Evarisk/digiboard) - ID: 436320 - Tableau de bord pour les applications DigiRisk, DigiQuali et bien plus ...
 ## Qualité
 - [DigiQuali](https://github.com/Evarisk/DigiQuali) - ID: 436301 - Gestion de contrôle qualité et référentiel
 ## Qualiopi
