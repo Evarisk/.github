@@ -9,6 +9,7 @@
 🧙 Vous pouvez suivre les évolutions de projets en temps réel ici : [Projets Road MAP Evarisk](https://github.com/orgs/Evarisk/projects/40/views/1?layout=board)
 
 👩‍ Sites internet : [Evarisk.com](https://www.evarisk.com/) 
+👩‍ Sites de l'académie pour evarisk : [Evarisk.academy]((https://evarisk.academy)
 
 🍿 Fun facts - Only in Commit
 
