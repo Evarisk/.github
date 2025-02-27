@@ -10,7 +10,7 @@
 
 👩‍ Sites internet : [Evarisk.com](https://www.evarisk.com/)
 
-👩‍ Sites de l'académie pour evarisk : [Evarisk.academy]((https://evarisk.academy)
+👩‍ Sites de l'académie pour evarisk : [Evarisk.academy](https://evarisk.academy)
 
 🍿 Fun facts - Only in Commit
 
