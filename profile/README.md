@@ -8,9 +8,9 @@
 
 🎯 Vous pouvez suivre les évolutions de projets en temps réel ici : [Projets Road MAP Evarisk](https://github.com/orgs/Evarisk/projects/40/views/1?layout=board)
 
-👩‍ Le site : [Evarisk.com](https://www.evarisk.com/) avec nos différents services
-📢‍ Notre veille est disponible ici : [Actualités](https://evarisk.com/actualites/)
-🎓‍ Le site dédié à la formation QHSE : [Evarisk.academy](https://evarisk.academy)
+👩‍ Le site : [Evarisk.com](https://www.evarisk.com/) avec nos différents services, 📢‍ Notre veille est disponible ici : [Actualités](https://evarisk.com/actualites/)
+
+🎓‍ Le site dédié à la formation QHSE : [Evarisk.academy](https://evarisk.academy) avec plus de 100 causeries sécurité gratuites et disponibles 24/24 !
 
 🍿 Fun facts - Only in Commit
 
