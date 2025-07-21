@@ -27,8 +27,6 @@
 - [DoliMeet](https://github.com/Evarisk/dolimeet) - ID: 436304 - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
 ## Ressources Humaines
 - [DoliSIRH](https://github.com/Evarisk/DoliSIRH) - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
-## Gestion
-- 
 ## FrameWork pour Dolibarr
 - [Saturne](https://github.com/Evarisk/Saturne) - ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le déploiement de modules pour Dolibarr
 
