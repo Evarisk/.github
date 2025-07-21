@@ -8,9 +8,9 @@
 
 🧙 Vous pouvez suivre les évolutions de projets en temps réel ici : [Projets Road MAP Evarisk](https://github.com/orgs/Evarisk/projects/40/views/1?layout=board)
 
-👩‍ Sites internet : [Evarisk.com](https://www.evarisk.com/)
+👩‍ Le site [Evarisk.com](https://www.evarisk.com/)
 
-👩‍ Sites de l'académie pour evarisk : [Evarisk.academy](https://evarisk.academy)
+👩‍ Le site dédié à la formation QHSE [Evarisk.academy](https://evarisk.academy)
 
 🍿 Fun facts - Only in Commit
 
@@ -30,13 +30,5 @@
 ## FrameWork pour Dolibarr
 - [Saturne](https://github.com/Evarisk/Saturne) - ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le déploiement de modules pour Dolibarr
 
-# Présentation de modules secondaire
+# Présentation de modules secondaires
 - [GMAO](https://github.com/Evarisk/gmao) - ID: 436312 - Gestion de la maintenance assistée par ordinateur
-
-
-
-
-
-
-
-
