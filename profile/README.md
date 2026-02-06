@@ -27,8 +27,11 @@
 - [DoliMeet](https://github.com/Evarisk/dolimeet) - ID: 436304 - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
 ## 🤝Ressources Humaines
 - [DoliSIRH](https://github.com/Evarisk/DoliSIRH) - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
-## 🛠️FrameWork pour Dolibarr
+## 🛠️Dolibarr
+**FrameWork**
 - [Saturne](https://github.com/Evarisk/Saturne) - ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le déploiement de modules pour Dolibarr
+**UI/UX**
+- [DoliUX](https://github.com/Evarisk/Doliux) - ID: @todo - Proposition d'intégration de TailWindCSS au sein de Dolibarr afin d'avoir de belles interfaces responsives
 
 # Présentation de modules secondaires
 - [GMAO](https://github.com/Evarisk/gmao) - ID: 436312 - Gestion de la maintenance assistée par ordinateur
