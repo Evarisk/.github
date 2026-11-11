@@ -34,4 +34,18 @@
 - [DoliUX](https://github.com/Evarisk/Doliux) - ID: @todo - Proposition d'intégration de TailWindCSS au sein de Dolibarr afin d'avoir de belles interfaces responsives
 
 # Présentation de modules secondaires
-- [GMAO](https://github.com/Evarisk/gmao) - ID: 436312 - Gestion de la maintenance assistée par ordinateur
+
+## Listing Id de nos modules sur Dolibarr :
+Les plages de réservation des modules pour Dolibarr c'est sur le [wiki réservation modules](https://wiki.dolibarr.org/index.php/List_of_modules_id)
+- ID: 436301 : [DigiQuali](https://github.com/Evarisk/DigiQuali) - Système de Management de la Qualité pour Dolibarr
+- ID: 436302 : [DigiRisk](https://github.com/Evarisk/Digirisk) - Gestion de Document Unique, PAPRIPACT et prévention des risques
+- ID: 436304 : [DoliMeet](https://github.com/Evarisk/dolimeet) - Suivi des réunions, sessions de formation, émargement et audits (Qualiopi)
+- ID: 436306 : [Recsubst](https://github.com/Evarisk/recsubst) - Substitution des balises dans les factures récurrentes générées
+- ID: 436310 : [DoliSIRH](https://github.com/Evarisk/DoliSIRH) - Simplification de la gestion du temps et génération des navettes RH
+- ID: 436311 : [DoliSecu](https://github.com/Evarisk/dolisecu) - Réparation des erreurs de sécurité sur les instances Dolibarr
+- ID: 436312 : [GMAO](https://github.com/Evarisk/gmao) - Gestion de la maintenance assistée par ordinateur
+- ID: 436318 : [Saturne](https://github.com/Evarisk/Saturne) - Framework technique simplifiant le déploiement de modules Dolibarr
+- ID: 436320 : [DigiBoard](https://github.com/Evarisk/digiboard) - Tableau de bord pour les applications DigiRisk, DigiQuali et bien plus
+- ID: 436342 : [BrandPDF](https://github.com/Evarisk/BrandPDF) - Logo et fond d'écran personnalisés sur vos PDF Dolibarr
+- ID: 436380 : [DoliCar](https://github.com/Evarisk/dolicar) - Gestion des parcs de véhicules, réservations en ligne et suivi des contrôles techniques
+- ID: 500001 : [mgl](https://github.com/Evarisk/mgl) - Déplacement des menus Expéditions et Réceptions de Produits vers Commercial
