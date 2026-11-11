@@ -48,4 +48,3 @@ Les plages de réservation des modules pour Dolibarr c'est sur le [wiki réserva
 - ID: 436320 : [DigiBoard](https://github.com/Evarisk/digiboard) - Tableau de bord pour les applications DigiRisk, DigiQuali et bien plus
 - ID: 436342 : [BrandPDF](https://github.com/Evarisk/BrandPDF) - Logo et fond d'écran personnalisés sur vos PDF Dolibarr
 - ID: 436380 : [DoliCar](https://github.com/Evarisk/dolicar) - Gestion des parcs de véhicules, réservations en ligne et suivi des contrôles techniques
-- ID: 500001 : [mgl](https://github.com/Evarisk/mgl) - Déplacement des menus Expéditions et Réceptions de Produits vers Commercial
