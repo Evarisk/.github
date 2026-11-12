@@ -16,22 +16,22 @@
 
 # Présentation des principaux modules
 ## 🦺 Hygiène Sécurité
-- [DigiRisk](https://github.com/Evarisk/Digirisk) - ID: 436302 - Gestion de Document Unique, PAPRIPACT, Registre santé sécurité dématérialisés, plan de prévention, permis de feu, enquête accident, Etc.
-- [DigiBoard](https://github.com/Evarisk/digiboard) - ID: 436320 - Tableau de bord pour les applications DigiRisk, DigiQuali et bien plus ...
-- [DoliSecu](https://github.com/Evarisk/dolisecu) - ID: 436311 - Réparation des erreurs de sécurité sur les instances Dolibarr tout petit mais très pratique
+- [DigiRisk](https://github.com/Evarisk/Digirisk) - Gestion de Document Unique, PAPRIPACT, Registre santé sécurité dématérialisés, plan de prévention, permis de feu, enquête accident, Etc.
+- [DigiBoard](https://github.com/Evarisk/digiboard) - Tableau de bord pour les applications DigiRisk, DigiQuali et bien plus ...
+- [DoliSecu](https://github.com/Evarisk/dolisecu) - Réparation des erreurs de sécurité sur les instances Dolibarr tout petit mais très pratique
 - [Bibliothèque-media-risque](https://github.com/Evarisk/bibliotheque-media-risque) Notre Bibliothèque de médias contient des milliers de médias sur la QHSE, images, illustrations, jeux de cartes, et tout ce qu'il faut pour animer des causeries sécurités
 ## 📋Qualité
-- [DigiQuali](https://github.com/Evarisk/DigiQuali) - ID: 436301 - Gestion de contrôle qualité et référentiel
-- [Dolicar](https://github.com/Evarisk/dolicar) - ID: 436380 - Gestion des parcs de véhicules, création des véhicules automatique via l'API, mise en stock et suivi des réparations, CT et réservation en ligne via un QRcode
+- [DigiQuali](https://github.com/Evarisk/DigiQuali) - Gestion de contrôle qualité et référentiel
+- [Dolicar](https://github.com/Evarisk/dolicar) - Gestion des parcs de véhicules, création des véhicules automatique via l'API, mise en stock et suivi des réparations, CT et réservation en ligne via un QRcode
 ## 🏅Qualiopi
-- [DoliMeet](https://github.com/Evarisk/dolimeet) - ID: 436304 - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
+- [DoliMeet](https://github.com/Evarisk/dolimeet) - Gestion des sessions de formations, signatures, feuille de présence, attestation de formations, suivi des réunions, suivi des réunions et des audits.
 ## 🤝Ressources Humaines
-- [DoliSIRH](https://github.com/Evarisk/DoliSIRH) - ID: 436310 - Gestion des ressources humaines, du pointage du temps et de la création des navettes
+- [DoliSIRH](https://github.com/Evarisk/DoliSIRH) - Gestion des ressources humaines, du pointage du temps et de la création des navettes
 ## 🛠️Dolibarr
 **FrameWork**
-- [Saturne](https://github.com/Evarisk/Saturne) - ID: 436318 - Ajout de nombreuses fonctionnalités simplifiant le déploiement de modules pour Dolibarr
+- [Saturne](https://github.com/Evarisk/Saturne) - Ajout de nombreuses fonctionnalités simplifiant le déploiement de modules pour Dolibarr
 **UI/UX**
-- [DoliUX](https://github.com/Evarisk/Doliux) - ID: @todo - Proposition d'intégration de TailWindCSS au sein de Dolibarr afin d'avoir de belles interfaces responsives
+- [DoliUX](https://github.com/Evarisk/Doliux) - Proposition d'intégration de TailWindCSS au sein de Dolibarr afin d'avoir de belles interfaces responsives
 
 # Présentation de modules secondaires
 
